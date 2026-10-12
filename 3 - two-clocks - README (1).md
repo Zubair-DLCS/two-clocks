@@ -157,6 +157,5 @@ python src/run_all.py        # downloads ~1.2 GB, ~15 min on a 2-core laptop
 
 ---
 
-*Author: Zubair, PhD student, University of Malakand. Background: deep learning for RF jamming
-detection. This project applies signal-forensics thinking (clocks, synchrony, interference) to
+This project applies signal-forensics thinking (clocks, synchrony, interference) to
 information operations.*
