@@ -1,0 +1,551 @@
+{
+  "describe": {
+    "ALL": {
+      "tweets": 1793596,
+      "accounts": 1118,
+      "hour_profile_msk": [
+        0.04539,
+        0.04148,
+        0.04178,
+        0.04167,
+        0.03857,
+        0.03984,
+        0.03122,
+        0.02565,
+        0.02247,
+        0.02073,
+        0.02438,
+        0.03312,
+        0.03289,
+        0.02838,
+        0.03153,
+        0.03863,
+        0.05288,
+        0.07742,
+        0.07361,
+        0.06582,
+        0.05279,
+        0.04933,
+        0.04512,
+        0.04531
+      ],
+      "share_msk_office_10_19": 0.3928387440649957,
+      "share_msk_night_02_07": 0.19307580971411623,
+      "share_us_prime_time_19_24_et": 0.18865452420723508,
+      "share_weekend_msk": 0.23072419876047895
+    },
+    "RightTroll": {
+      "tweets": 650475,
+      "accounts": 615,
+      "hour_profile_msk": [
+        0.0497,
+        0.04269,
+        0.04316,
+        0.04765,
+        0.04388,
+        0.04874,
+        0.03131,
+        0.02446,
+        0.02116,
+        0.02177,
+        0.02555,
+        0.0347,
+        0.03095,
+        0.02451,
+        0.03386,
+        0.04618,
+        0.04227,
+        0.05512,
+        0.04846,
+        0.06662,
+        0.05674,
+        0.06014,
+        0.05139,
+        0.04898
+      ],
+      "share_msk_office_10_19": 0.3416042123063915,
+      "share_msk_night_02_07": 0.2147446097082901,
+      "share_us_prime_time_19_24_et": 0.21349936584803414,
+      "share_weekend_msk": 0.2662438986894193
+    },
+    "LeftTroll": {
+      "tweets": 394448,
+      "accounts": 223,
+      "hour_profile_msk": [
+        0.04649,
+        0.04434,
+        0.04766,
+        0.04162,
+        0.04138,
+        0.03946,
+        0.0306,
+        0.0286,
+        0.02776,
+        0.02663,
+        0.0323,
+        0.03586,
+        0.03245,
+        0.02866,
+        0.03168,
+        0.03938,
+        0.05254,
+        0.0622,
+        0.06021,
+        0.06007,
+        0.0527,
+        0.04531,
+        0.04506,
+        0.04702
+      ],
+      "share_msk_office_10_19": 0.37528647629091794,
+      "share_msk_night_02_07": 0.20072100758528374,
+      "share_us_prime_time_19_24_et": 0.1935514947470896,
+      "share_weekend_msk": 0.26483592260576805
+    },
+    "NewsFeed": {
+      "tweets": 530293,
+      "accounts": 50,
+      "hour_profile_msk": [
+        0.05651,
+        0.05311,
+        0.04994,
+        0.04651,
+        0.04373,
+        0.04361,
+        0.04216,
+        0.03532,
+        0.02935,
+        0.02358,
+        0.02035,
+        0.01994,
+        0.02226,
+        0.02411,
+        0.03002,
+        0.03608,
+        0.04297,
+        0.04998,
+        0.05499,
+        0.05455,
+        0.05647,
+        0.05458,
+        0.0539,
+        0.05599
+      ],
+      "share_msk_office_10_19": 0.30069603030777325,
+      "share_msk_night_02_07": 0.22595810240753697,
+      "share_us_prime_time_19_24_et": 0.22010284880245448,
+      "share_weekend_msk": 0.21315197447448864
+    },
+    "HashtagGamer": {
+      "tweets": 208594,
+      "accounts": 110,
+      "hour_profile_msk": [
+        0.00226,
+        0.00112,
+        0.00098,
+        0.00047,
+        0.00287,
+        0.00283,
+        0.00025,
+        4e-05,
+        1e-05,
+        2e-05,
+        0.01687,
+        0.05724,
+        0.06737,
+        0.05126,
+        0.02833,
+        0.02101,
+        0.11338,
+        0.24785,
+        0.22631,
+        0.10413,
+        0.03335,
+        0.01152,
+        0.00517,
+        0.00536
+      ],
+      "share_msk_office_10_19": 0.8296067959768737,
+      "share_msk_night_02_07": 0.007411526697795718,
+      "share_us_prime_time_19_24_et": 0.006807482477923622,
+      "share_weekend_msk": 0.10065965464011428
+    },
+    "Fearmonger": {
+      "tweets": 9786,
+      "accounts": 120,
+      "hour_profile_msk": [
+        0.03035,
+        0.07541,
+        0.1402,
+        0.26119,
+        0.05385,
+        0.04854,
+        0.11649,
+        0.00715,
+        0.00276,
+        0.00163,
+        0.00623,
+        0.01758,
+        0.02003,
+        0.01747,
+        0.02044,
+        0.02105,
+        0.0185,
+        0.02769,
+        0.04006,
+        0.03822,
+        0.0094,
+        0.0142,
+        0.00613,
+        0.00542
+      ],
+      "share_msk_office_10_19": 0.18904557531166974,
+      "share_msk_night_02_07": 0.6202738606172082,
+      "share_us_prime_time_19_24_et": 0.511853668506029,
+      "share_weekend_msk": 0.21939505415900265
+    }
+  },
+  "dst": {
+    "real": {
+      "ALL": {
+        "account_transitions": 572,
+        "accounts": 291,
+        "median_shift_min": 10.0,
+        "median_shift_ci95": [
+          0.0,
+          20.0
+        ],
+        "share_us_clock": 0.42832167832167833,
+        "share_us_clock_ci95": [
+          0.38336271850512355,
+          0.47304733585148273
+        ]
+      },
+      "RightTroll": {
+        "account_transitions": 183,
+        "accounts": 94,
+        "median_shift_min": 0.0,
+        "median_shift_ci95": [
+          -10.0,
+          0.0
+        ],
+        "share_us_clock": 0.3551912568306011,
+        "share_us_clock_ci95": [
+          0.281767955801105,
+          0.4293668186068255
+        ]
+      },
+      "LeftTroll": {
+        "account_transitions": 213,
+        "accounts": 105,
+        "median_shift_min": -10.0,
+        "median_shift_ci95": [
+          -15.0,
+          0.0
+        ],
+        "share_us_clock": 0.3333333333333333,
+        "share_us_clock_ci95": [
+          0.27102803738317754,
+          0.39269814090019567
+        ]
+      },
+      "NewsFeed": {
+        "account_transitions": 93,
+        "accounts": 40,
+        "median_shift_min": 50.0,
+        "median_shift_ci95": [
+          40.0,
+          60.0
+        ],
+        "share_us_clock": 0.7096774193548387,
+        "share_us_clock_ci95": [
+          0.5888725490196078,
+          0.8152670640486206
+        ]
+      },
+      "HashtagGamer": {
+        "account_transitions": 83,
+        "accounts": 52,
+        "median_shift_min": 30.0,
+        "median_shift_ci95": [
+          20.0,
+          40.0
+        ],
+        "share_us_clock": 0.5180722891566265,
+        "share_us_clock_ci95": [
+          0.4186046511627907,
+          0.6202873759835783
+        ]
+      },
+      "Fearmonger": null
+    },
+    "placebo": {
+      "ALL": {
+        "account_transitions": 1163,
+        "accounts": 339,
+        "median_shift_min": 0.0,
+        "median_shift_ci95": [
+          0.0,
+          0.0
+        ],
+        "share_us_clock": 0.2863284608770421,
+        "share_us_clock_ci95": [
+          0.25393943095970156,
+          0.3191880116596378
+        ]
+      },
+      "RightTroll": {
+        "account_transitions": 328,
+        "accounts": 131,
+        "median_shift_min": 0.0,
+        "median_shift_ci95": [
+          0.0,
+          10.0
+        ],
+        "share_us_clock": 0.3780487804878049,
+        "share_us_clock_ci95": [
+          0.32,
+          0.4371467615985301
+        ]
+      },
+      "LeftTroll": {
+        "account_transitions": 416,
+        "accounts": 112,
+        "median_shift_min": 10.0,
+        "median_shift_ci95": [
+          0.0,
+          20.0
+        ],
+        "share_us_clock": 0.4206730769230769,
+        "share_us_clock_ci95": [
+          0.3689003899654696,
+          0.4748758634862969
+        ]
+      },
+      "NewsFeed": {
+        "account_transitions": 216,
+        "accounts": 40,
+        "median_shift_min": 0.0,
+        "median_shift_ci95": [
+          0.0,
+          0.0
+        ],
+        "share_us_clock": 0.09259259259259259,
+        "share_us_clock_ci95": [
+          0.055299539170506916,
+          0.13552422647672618
+        ]
+      },
+      "HashtagGamer": {
+        "account_transitions": 203,
+        "accounts": 56,
+        "median_shift_min": -10.0,
+        "median_shift_ci95": [
+          -10.0,
+          0.0
+        ],
+        "share_us_clock": 0.06896551724137931,
+        "share_us_clock_ci95": [
+          0.03686575309240844,
+          0.105
+        ]
+      },
+      "Fearmonger": null
+    },
+    "real_excluding_election_week": {
+      "ALL": {
+        "account_transitions": 424,
+        "accounts": 268,
+        "median_shift_min": 10.0,
+        "median_shift_ci95": [
+          0.0,
+          10.0
+        ],
+        "share_us_clock": 0.3608490566037736,
+        "share_us_clock_ci95": [
+          0.3103427701423751,
+          0.4075962288907237
+        ]
+      },
+      "RightTroll": {
+        "account_transitions": 155,
+        "accounts": 92,
+        "median_shift_min": 0.0,
+        "median_shift_ci95": [
+          -10.0,
+          0.0
+        ],
+        "share_us_clock": 0.3096774193548387,
+        "share_us_clock_ci95": [
+          0.23684210526315788,
+          0.3881578947368421
+        ]
+      },
+      "LeftTroll": {
+        "account_transitions": 154,
+        "accounts": 103,
+        "median_shift_min": -10.0,
+        "median_shift_ci95": [
+          -20.0,
+          0.0
+        ],
+        "share_us_clock": 0.2597402597402597,
+        "share_us_clock_ci95": [
+          0.19607843137254902,
+          0.32298610059081956
+        ]
+      },
+      "NewsFeed": {
+        "account_transitions": 76,
+        "accounts": 40,
+        "median_shift_min": 50.0,
+        "median_shift_ci95": [
+          40.0,
+          60.0
+        ],
+        "share_us_clock": 0.7105263157894737,
+        "share_us_clock_ci95": [
+          0.5920913639733135,
+          0.8157894736842105
+        ]
+      },
+      "HashtagGamer": {
+        "account_transitions": 39,
+        "accounts": 33,
+        "median_shift_min": 20.0,
+        "median_shift_ci95": [
+          -20.0,
+          25.0
+        ],
+        "share_us_clock": 0.28205128205128205,
+        "share_us_clock_ci95": [
+          0.15,
+          0.425
+        ]
+      },
+      "Fearmonger": null
+    }
+  },
+  "holidays": {
+    "ALL": {
+      "russian": {
+        "n_days": 27,
+        "change_pct": -6.535555680090576,
+        "p_one_sided_drop": 0.25245,
+        "null_95_pct": [
+          -16.925597705156214,
+          17.935046481477546
+        ]
+      },
+      "us": {
+        "n_days": 18,
+        "change_pct": 1.002615560239506,
+        "p_one_sided_drop": 0.5749,
+        "null_95_pct": [
+          -20.76597311063849,
+          22.516083917839058
+        ]
+      }
+    },
+    "RightTroll": {
+      "russian": {
+        "n_days": 27,
+        "change_pct": -22.334444209099612,
+        "p_one_sided_drop": 0.04305,
+        "null_95_pct": [
+          -24.876005779847244,
+          24.48074732875396
+        ]
+      },
+      "us": {
+        "n_days": 18,
+        "change_pct": -17.940645110775797,
+        "p_one_sided_drop": 0.1388,
+        "null_95_pct": [
+          -28.914269407693173,
+          32.00930013395051
+        ]
+      }
+    },
+    "LeftTroll": {
+      "russian": {
+        "n_days": 27,
+        "change_pct": -7.268628611168704,
+        "p_one_sided_drop": 0.42645,
+        "null_95_pct": [
+          -31.947809345430965,
+          35.40024675937552
+        ]
+      },
+      "us": {
+        "n_days": 18,
+        "change_pct": -16.536668105737917,
+        "p_one_sided_drop": 0.2553,
+        "null_95_pct": [
+          -36.92309612152332,
+          46.160636215250015
+        ]
+      }
+    },
+    "NewsFeed": {
+      "russian": {
+        "n_days": 27,
+        "change_pct": -8.528392270093189,
+        "p_one_sided_drop": 0.0849,
+        "null_95_pct": [
+          -11.84413403542356,
+          5.059190195253693
+        ]
+      },
+      "us": {
+        "n_days": 18,
+        "change_pct": -1.4378346703425637,
+        "p_one_sided_drop": 0.49175,
+        "null_95_pct": [
+          -14.515348464759924,
+          6.569077774286725
+        ]
+      }
+    },
+    "HashtagGamer": {
+      "russian": {
+        "n_days": 27,
+        "change_pct": -40.39577974273792,
+        "p_one_sided_drop": 0.0276,
+        "null_95_pct": [
+          -41.05870350263705,
+          59.054625225867376
+        ]
+      },
+      "us": {
+        "n_days": 18,
+        "change_pct": 18.343400354448836,
+        "p_one_sided_drop": 0.7407,
+        "null_95_pct": [
+          -47.272823273907136,
+          79.26072858291637
+        ]
+      }
+    },
+    "Fearmonger": {
+      "russian": {
+        "n_days": 27,
+        "change_pct": -0.4352833492892616,
+        "p_one_sided_drop": 0.34735,
+        "null_95_pct": [
+          -10.891493244672755,
+          18.59791166184357
+        ]
+      },
+      "us": {
+        "n_days": 18,
+        "change_pct": 31.887936574180454,
+        "p_one_sided_drop": 0.995,
+        "null_95_pct": [
+          -13.723432575779038,
+          22.879976652851663
+        ]
+      }
+    }
+  }
+}

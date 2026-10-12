@@ -1,0 +1,125 @@
+{
+  "window_s": 3600,
+  "min_co": 3,
+  "co_post_pairs": 27724,
+  "network_nodes": 857,
+  "network_edges": 14425,
+  "share_of_role_in_network": {
+    "RightTroll": 0.7528455284552845,
+    "LeftTroll": 0.6860986547085202,
+    "NewsFeed": 0.86,
+    "HashtagGamer": 0.9181818181818182,
+    "Fearmonger": 0.8083333333333333
+  },
+  "copies_within_60s": 0.1687699489808741,
+  "copies_within_10s": 0.04487421146548041,
+  "median_lag_s": 273.0639998912811,
+  "within_role_link_share": 0.9844829138323965,
+  "within_role_null_mean": 0.35143950797479706,
+  "within_role_null_95": [
+    0.27439557317386654,
+    0.4612749806807845
+  ],
+  "cross_role_share": {
+    "RightTroll": {
+      "RightTroll": 0.989,
+      "LeftTroll": 0.0034,
+      "NewsFeed": 0.002,
+      "HashtagGamer": 0.0046,
+      "Fearmonger": 0.001
+    },
+    "LeftTroll": {
+      "RightTroll": 0.0224,
+      "LeftTroll": 0.9704,
+      "NewsFeed": 0.0038,
+      "HashtagGamer": 0.0022,
+      "Fearmonger": 0.0012
+    },
+    "NewsFeed": {
+      "RightTroll": 0.2476,
+      "LeftTroll": 0.0703,
+      "NewsFeed": 0.6513,
+      "HashtagGamer": 0.0181,
+      "Fearmonger": 0.0127
+    },
+    "HashtagGamer": {
+      "RightTroll": 0.0109,
+      "LeftTroll": 0.0008,
+      "NewsFeed": 0.0003,
+      "HashtagGamer": 0.988,
+      "Fearmonger": 0.0
+    },
+    "Fearmonger": {
+      "RightTroll": 0.2234,
+      "LeftTroll": 0.0416,
+      "NewsFeed": 0.0235,
+      "HashtagGamer": 0.0043,
+      "Fearmonger": 0.7071
+    }
+  },
+  "communities": 15,
+  "nmi_vs_roles": 0.5211130309200238,
+  "ari_vs_roles": 0.22636651503040697,
+  "purity": 0.8191365227537923,
+  "largest_communities": [
+    {
+      "size": 275,
+      "roles": {
+        "RightTroll": 141,
+        "Fearmonger": 95,
+        "LeftTroll": 36,
+        "HashtagGamer": 2,
+        "NewsFeed": 1
+      }
+    },
+    {
+      "size": 125,
+      "roles": {
+        "RightTroll": 119,
+        "NewsFeed": 4,
+        "LeftTroll": 1,
+        "Fearmonger": 1
+      }
+    },
+    {
+      "size": 113,
+      "roles": {
+        "LeftTroll": 112,
+        "RightTroll": 1
+      }
+    },
+    {
+      "size": 111,
+      "roles": {
+        "HashtagGamer": 99,
+        "RightTroll": 9,
+        "LeftTroll": 2,
+        "Fearmonger": 1
+      }
+    },
+    {
+      "size": 84,
+      "roles": {
+        "RightTroll": 84
+      }
+    },
+    {
+      "size": 63,
+      "roles": {
+        "RightTroll": 63
+      }
+    },
+    {
+      "size": 31,
+      "roles": {
+        "NewsFeed": 31
+      }
+    },
+    {
+      "size": 24,
+      "roles": {
+        "RightTroll": 24
+      }
+    }
+  ]
+}

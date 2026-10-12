@@ -1,0 +1,228 @@
+{
+  "accounts": 918,
+  "accounts_per_role": {
+    "RightTroll": 482,
+    "LeftTroll": 188,
+    "Fearmonger": 104,
+    "HashtagGamer": 99,
+    "NewsFeed": 45
+  },
+  "glove_coverage": 0.9388351795177652,
+  "cv": {
+    "Rhythm": {
+      "macro_f1": 0.8323896997665085,
+      "sd": 0.019604306165896115,
+      "per_class_f1": {
+        "RightTroll": 0.848,
+        "LeftTroll": 0.657,
+        "NewsFeed": 0.773,
+        "HashtagGamer": 0.97,
+        "Fearmonger": 0.883
+      }
+    },
+    "Behaviour": {
+      "macro_f1": 0.8334097654164646,
+      "sd": 0.02305067450724305,
+      "per_class_f1": {
+        "RightTroll": 0.852,
+        "LeftTroll": 0.686,
+        "NewsFeed": 0.824,
+        "HashtagGamer": 0.97,
+        "Fearmonger": 0.856
+      }
+    },
+    "Language: GloVe": {
+      "macro_f1": 0.8958021766425255,
+      "sd": 0.01536091081011748,
+      "per_class_f1": {
+        "RightTroll": 0.918,
+        "LeftTroll": 0.799,
+        "NewsFeed": 0.925,
+        "HashtagGamer": 0.97,
+        "Fearmonger": 0.899
+      }
+    },
+    "Language: TF-IDF": {
+      "macro_f1": 0.9422028302745808,
+      "sd": 0.009870757374392844,
+      "per_class_f1": {
+        "RightTroll": 0.941,
+        "LeftTroll": 0.884,
+        "NewsFeed": 0.966,
+        "HashtagGamer": 0.995,
+        "Fearmonger": 0.919
+      }
+    },
+    "All combined": {
+      "macro_f1": 0.9007341174053071,
+      "sd": 0.01825338953909484,
+      "per_class_f1": {
+        "RightTroll": 0.897,
+        "LeftTroll": 0.785,
+        "NewsFeed": 0.944,
+        "HashtagGamer": 0.975,
+        "Fearmonger": 0.915
+      }
+    }
+  },
+  "confusion_all": {
+    "labels": [
+      "RightTroll",
+      "LeftTroll",
+      "NewsFeed",
+      "HashtagGamer",
+      "Fearmonger"
+    ],
+    "matrix": [
+      [
+        429,
+        38,
+        2,
+        3,
+        10
+      ],
+      [
+        38,
+        148,
+        0,
+        1,
+        1
+      ],
+      [
+        3,
+        0,
+        42,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        98,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0,
+        97
+      ]
+    ]
+  },
+  "top_terms": {
+    "Fearmonger": [
+      "#kochfarms",
+      "#kochfarms <url>",
+      "#turkey",
+      "#foodpoisoning",
+      "#usda",
+      "#walmart",
+      "#usda <url>",
+      "thanksgiving",
+      "wooow",
+      "#fsis",
+      "#dogthanking",
+      "happy thanksgiving"
+    ],
+    "HashtagGamer": [
+      "#allwentwrongwhen",
+      "#reasoniamnotpresident",
+      "#mypreworkoutroutine",
+      "#thingsitrytoforgetbutcant",
+      "#falldepressionreasons",
+      "#unitedstatesin3words",
+      "#wasteamillionin3words",
+      "<url> #allwentwrongwhen",
+      "#trumpcampaignslogans",
+      "#obamanextjob",
+      "#howtomakeamangay",
+      "#mydoomsdayplans"
+    ],
+    "LeftTroll": [
+      "#blacklivesmatter",
+      "#blacklivesmatter <url>",
+      "#fergusonremembers",
+      "#staywoke",
+      "black",
+      "#blacktwitter",
+      "#fergusonremembers #fergusonremembers",
+      "#mikebrown",
+      "black people",
+      "#ferguson",
+      "#policebrutality",
+      "<url> #blacklivesmatter"
+    ],
+    "NewsFeed": [
+      "#news",
+      "#sports",
+      "crash",
+      "#politics",
+      "county",
+      "man charged",
+      "suspect",
+      "dies",
+      "#news <url>",
+      "missing",
+      "near",
+      "robbery"
+    ],
+    "RightTroll": [
+      "#trumpbecause",
+      "#islamkills",
+      "#brussels",
+      "#trump2016",
+      "#stopislam",
+      "#pjnet",
+      "<url> #trumpbecause",
+      "#makeamericagreatagain",
+      "#tcot",
+      "refugees",
+      "#gopdebate",
+      "#prayforbrussels"
+    ]
+  },
+  "drift": {
+    "roles": [
+      "HashtagGamer",
+      "LeftTroll",
+      "NewsFeed",
+      "RightTroll"
+    ],
+    "accounts": 230,
+    "accounts_per_role": {
+      "LeftTroll": 86,
+      "RightTroll": 62,
+      "HashtagGamer": 53,
+      "NewsFeed": 29
+    },
+    "families": {
+      "Rhythm": {
+        "pre_to_pre": 0.8648306751495205,
+        "pre_to_post": 0.43911814549392825,
+        "drop": 0.42571252965559225
+      },
+      "Behaviour": {
+        "pre_to_pre": 0.9350066982087443,
+        "pre_to_post": 0.788033092598396,
+        "drop": 0.14697360561034822
+      },
+      "Language: GloVe": {
+        "pre_to_pre": 0.9720087931392281,
+        "pre_to_post": 0.91455601715704,
+        "drop": 0.05745277598218801
+      },
+      "Language: TF-IDF": {
+        "pre_to_pre": 0.9966329966329965,
+        "pre_to_post": 0.9697698997698998,
+        "drop": 0.026863096863096736
+      },
+      "All combined": {
+        "pre_to_pre": 0.983062184192619,
+        "pre_to_post": 0.8985164733562904,
+        "drop": 0.08454571083632867
+      }
+    }
+  }
+}
